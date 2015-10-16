@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	From now on I can create commits and save my project's changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area allows us to "move" our project's files to other location without loss data.
